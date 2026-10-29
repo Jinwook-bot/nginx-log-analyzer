@@ -63,7 +63,8 @@ Nginx 접근 로그를 Python 프로그램의 표준 입력으로 전달하여 �
 
 ## 7. 실행 결과
 
-Nginx 로그 분석 결과 및 crontab 자동 실행 관련 스크린샷을 첨부할 예정입니다.
+<img width="1891" height="897" alt="파이썬 로그분석" src="https://github.com/user-attachments/assets/3593ed29-0a0e-46a2-8396-f6cd3d673c0c" />
+
 
 ## 8. 향후 개선 계획
 
